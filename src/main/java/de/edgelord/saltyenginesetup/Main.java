@@ -1,7 +1,5 @@
 package de.edgelord.saltyenginesetup;
 
-import com.sun.xml.internal.bind.v2.model.core.ID;
-
 import java.io.*;
 import java.util.HashMap;
 import java.util.Objects;
